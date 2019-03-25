@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/mn_national"
+    android:title="National Geographic (default)" />
+
+    <item android:id="@+id/mn_tech"
+        android:title="Tech Crunch" />
+
+    <item android:id="@+id/mn_mtv"
+        android:title="MTV"/>
+
+    <item android:id="@+id/mn_scientist"
+        android:title="New Scientist"/>
+</menu>
